@@ -1,0 +1,23 @@
+[  
+    {  
+        "idProduct": 1,
+        "productName": "batterie",
+        "fournisseur": "Tama"
+
+    },  
+    {  
+        "idProduct": 2,  
+        "productName": "guitare",
+        "fournisseur": "ESP"
+    },  
+    {  
+        "idProduct": 3,  
+        "productName": "guitare",
+        "fournisseur": "Charvel"
+    },
+    {  
+        "idProduct": 4,  
+        "productName": "basse",
+        "fournisseur": "Fender"
+    }
+]    

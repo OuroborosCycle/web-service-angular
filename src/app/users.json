@@ -1,0 +1,26 @@
+[  
+    {  
+        "idUser": 1,
+        "prenom": "Joe",
+        "nom": "Duplantier",
+        "mail": "jduplantier@gojira.fr"
+    },  
+    {  
+        "idUser": 2,
+        "prenom": "Mario",
+        "nom": "Duplantier",
+        "mail": "mduplantier@gojira.fr"
+    },
+    {  
+        "idUser": 3,
+        "prenom": "Jean-Michel",
+        "nom": "Labadie",
+        "mail": "jmlabadie@gojira.fr"
+    },
+    {  
+        "idUser": 4,
+        "prenom": "Christian",
+        "nom": "Andreu",
+        "mail": "candreu@gojira.fr"
+    }
+]    

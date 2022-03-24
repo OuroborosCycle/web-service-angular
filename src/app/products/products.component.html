@@ -1,0 +1,19 @@
+<div class="container">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th scope="col">Product ID</th>
+                <th scope="col">Product Name</th>
+                <th *ngIf = "isShown" scope="col">Fournisseur</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let products of products">
+                <td>{{products.idProduct}}</td>
+                <td>{{products.productName}}</td>
+                <td *ngIf = "isShown">{{products.fournisseur}}</td>
+            </tr>
+            <button (click) = toggleDisplay()>Show details</button>
+        </tbody>
+    </table>
+</div>
